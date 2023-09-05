@@ -4,7 +4,7 @@
 
 ### CTFs - overview
 
-*[Women in Cybersecurity (WiCyS) - CTF 101](https://www.youtube.com/watch?v=wL3acu8xspM)
+* [Women in Cybersecurity (WiCyS) - CTF 101](https://www.youtube.com/watch?v=wL3acu8xspM)
 
 ### Tips for beginners
 
