@@ -16,6 +16,7 @@
 
 * [OverTheWire - Bandit](https://overthewire.org/wargames/)
 * [picoCTF](https://picoctf.org/)
+* [SANS Holiday Hack Challenge 2022](https://www.sans.org/mlp/holiday-hack-challenge-2022/)
 * [TryHackMe](https://tryhackme.com/)
 
 ### Tools
