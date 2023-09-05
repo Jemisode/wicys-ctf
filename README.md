@@ -16,6 +16,6 @@
 
 * [picoCTF](https://picoctf.org/)
 
-* ### Tools
+### Tools
 
 * [CyberChef](https://gchq.github.io/CyberChef/)
