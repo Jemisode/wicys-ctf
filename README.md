@@ -1,4 +1,4 @@
-# WiCyS Security Training Scholarship - Capture the Flag (CTF) resources 
+# WiCyS Security Training Scholarship - CTF resources 
 
 ## Useful links
 
