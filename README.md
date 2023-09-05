@@ -4,7 +4,7 @@
 
 ### Tools
 
-* [CyberChef] (https://gchq.github.io/CyberChef/)
+* [CyberChef](https://gchq.github.io/CyberChef/)
 
 ### Websites to practice
 
