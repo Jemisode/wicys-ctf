@@ -1,4 +1,4 @@
-# WiCyS Security Training - CTF resources 
+# WiCyS Security Training Scholarship - CTF resources 
 
 ### Useful links
 
