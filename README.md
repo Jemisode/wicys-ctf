@@ -14,9 +14,9 @@
 
 ### Websites to practice
 
+* [OverTheWire - Bandit](https://overthewire.org/wargames/)
 * [picoCTF](https://picoctf.org/)
 * [TryHackMe](https://tryhackme.com/)
-* [OverTheWire - Bandit](https://overthewire.org/wargames/)
 
 ### Tools
 
