@@ -1,1 +1,1 @@
-# wicys-ctf
+# WiCyS Security Training - CTF resources 
