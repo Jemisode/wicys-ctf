@@ -6,7 +6,13 @@
 
 * [Women in Cybersecurity (WiCyS) - CTF 101](https://www.youtube.com/watch?v=wL3acu8xspM)
 
-* ### Getting started - environment setup 
+### Getting started - environment setup
+
+#### Virtual machines
+
+*[https://www.youtube.com/watch?v=l97dVIKlmVg](https://www.youtube.com/watch?v=l97dVIKlmVg)
+*[Install Kali Linux On M1 Or M2 Mac Using VMWare Fusion (2023)](https://www.youtube.com/watch?v=LJo9EUwXiHo)
+  
 
 ### Tips for beginners
 
