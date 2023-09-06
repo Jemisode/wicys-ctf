@@ -15,8 +15,8 @@
 
 ### Tips for beginners
 
-* [Hack The Box: CTF tips for beginner hackers](https://www.hackthebox.com/blog/what-is-ctf#ctf_educational_resources)
-* [InfoSec Write-ups: How to get started in CTF - Complete Beginner Guide](https://infosecwriteups.com/how-to-get-started-in-ctf-complete-begineer-guide-15ab5a6856d)
+* [Hack The Box - CTF tips for beginner hackers](https://www.hackthebox.com/blog/what-is-ctf#ctf_educational_resources)
+* [InfoSec Write-ups - How to get started in CTF | Complete Beginner Guide](https://infosecwriteups.com/how-to-get-started-in-ctf-complete-begineer-guide-15ab5a6856d)
 
 ### Websites to practice
 
