@@ -12,7 +12,6 @@
 
 * [How To Install Kali Linux in VirtualBox (2022) | Kali Linux 2022.1](https://www.youtube.com/watch?v=l97dVIKlmVg)
 * [Install Kali Linux On M1 Or M2 Mac Using VMWare Fusion (2023)](https://www.youtube.com/watch?v=LJo9EUwXiHo)
-  
 
 ### Tips for beginners
 
@@ -21,6 +20,9 @@
 ### Websites to practice
 
 * [OverTheWire - Bandit](https://overthewire.org/wargames/)
+* [Hack The Box](https://hackthebox.com/)
+* [Microcorruption](https://microcorruption.com/)
+* [OWASP Juice Shop)(https://owasp.org/www-project-juice-shop/)
 * [picoCTF](https://picoctf.org/)
 * [SANS Holiday Hack Challenge 2022](https://www.sans.org/mlp/holiday-hack-challenge-2022/)
 * [TryHackMe](https://tryhackme.com/)
