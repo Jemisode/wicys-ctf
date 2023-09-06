@@ -29,5 +29,5 @@
 
 * [CyberChef](https://gchq.github.io/CyberChef/)
 * [dCore](https://www.dcode.fr/)
-* [Google] (https://www.google.com/) :wink: 
+* [Google](https://www.google.com/) :wink: 
 * [Wireshark](https://www.wireshark.org/)
