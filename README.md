@@ -45,3 +45,6 @@
 * [Ghidra](https://ghidra-sre.org/) - Reverse Engineering
 * [OnlineGBD](https://www.onlinegdb.com/) - Debugging
 * [How to Debug Using GDB](https://cs.baylor.edu/~donahoo/tools/gdb/tutorial.html) - How to use OnlineGBD
+* [VirusTotal](https://www.virustotal.com/gui/home/upload) - To check file's hash and reputation
+* [Audacity](https://www.audacityteam.org/) - For audio steganography challenges
+  
