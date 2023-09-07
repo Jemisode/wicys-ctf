@@ -10,6 +10,7 @@
 
 #### Linux ####
 
+* [https://learn.microsoft.com/en-us/windows/wsl/install](https://learn.microsoft.com/en-us/windows/wsl/install)
 * [Set up Linux on your Chromebook](https://support.google.com/chromebook/answer/9145439?hl=en)
 
 #### Virtual machines
