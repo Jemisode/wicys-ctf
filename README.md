@@ -8,6 +8,10 @@
 
 ### Getting started - environment setup
 
+#### Linux ####
+
+* [Set up Linux on your Chromebook](https://support.google.com/chromebook/answer/9145439?hl=en)
+
 #### Virtual machines
 
 * [How To Install Kali Linux in VirtualBox (2022) | Kali Linux 2022.1](https://www.youtube.com/watch?v=l97dVIKlmVg)
