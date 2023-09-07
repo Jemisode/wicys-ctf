@@ -17,6 +17,7 @@
 
 * [Hack The Box - CTF tips for beginner hackers](https://www.hackthebox.com/blog/what-is-ctf#ctf_educational_resources)
 * [InfoSec Write-ups - How to get started in CTF | Complete Beginner Guide](https://infosecwriteups.com/how-to-get-started-in-ctf-complete-begineer-guide-15ab5a6856d)
+* [CTF101](https://ctf101.org/)
 
 ### Websites to practice
 
@@ -27,10 +28,15 @@
 * [picoCTF](https://picoctf.org/)
 * [SANS Holiday Hack Challenge 2022](https://www.sans.org/mlp/holiday-hack-challenge-2022/)
 * [TryHackMe](https://tryhackme.com/)
+* [Google CTF Beginner Quest - cool art!](https://capturetheflag.withgoogle.com/beginners-quest)
 
 ### Tools
 
-* [CyberChef](https://gchq.github.io/CyberChef/)
-* [dCore](https://www.dcode.fr/)
+* [CyberChef](https://gchq.github.io/CyberChef/) - Swiss Army Knife of useful Cyber and CTF tools
+* [dCore](https://www.dcode.fr/) - 800 tools to help solve games, puzzles, coded messages, math, etc
 * [Google](https://www.google.com/) :wink: 
-* [Wireshark](https://www.wireshark.org/)
+* [Wireshark](https://www.wireshark.org/) - Network Packet Analysis
+* [Zeek](https://zeek.org/) - Network Analysis/Threat Hunting
+* [Ghidra](https://ghidra-sre.org/) - Reverse Engineering
+* [OnlineGBD](https://www.onlinegdb.com/) - Debugging
+* [How to Debug Using GDB]{https://cs.baylor.edu/~donahoo/tools/gdb/tutorial.html) - How to use OnlineGBD
