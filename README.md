@@ -37,7 +37,7 @@
 
 ### Tools
 
-* [CyberChef](https://gchq.github.io/CyberChef/) - Swiss Army Knife of useful Cyber and CTF tools
+(https://cheatography.com/davechild/cheat-sheets/linux-command-line/)* [CyberChef](https://gchq.github.io/CyberChef/) - Swiss Army Knife of useful Cyber and CTF tools
 * [dCore](https://www.dcode.fr/) - 800 tools to help solve games, puzzles, coded messages, math, etc
 * [Cipher identifier](https://www.boxentriq.com/code-breaking/cipher-identifier) - a tool that will help you identify the type of cipher
 * [Google](https://www.google.com/) :wink: 
