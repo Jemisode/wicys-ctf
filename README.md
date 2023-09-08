@@ -27,7 +27,7 @@
 
 ### Websites to practice
 
-* [OverTheWire - Bandit](https://overthewire.org/wargames/)
+* [Bandit - OverTheWire](https://overthewire.org/wargames/)
 * [Hack The Box](https://hackthebox.com/)
 * [Microcorruption](https://microcorruption.com/)
 * [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
@@ -46,6 +46,6 @@
 * [Ghidra](https://ghidra-sre.org/) - Reverse Engineering
 * [OnlineGBD](https://www.onlinegdb.com/) - Debugging
 * [How to Debug Using GDB](https://cs.baylor.edu/~donahoo/tools/gdb/tutorial.html) - How to use OnlineGBD
-* [VirusTotal](https://www.virustotal.com/gui/home/upload) - To check file's hash and reputation
+* [VirusTotal](https://www.virustotal.com/gui/home/upload) - To check files hash and reputation
 * [Audacity](https://www.audacityteam.org/) - For audio steganography challenges
   
