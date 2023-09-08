@@ -35,9 +35,13 @@
 * [TryHackMe](https://tryhackme.com/)
 * [Google CTF Beginner Quest - cool art!](https://capturetheflag.withgoogle.com/beginners-quest)
 
-### Tools
+## Command line
 
 * [Linux Command Line Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
+* [Tldr pages - simplified and community-driven man pages](https://tldr.sh/)
+
+### Tools
+
 * [CyberChef](https://gchq.github.io/CyberChef/) - Swiss Army Knife of useful Cyber and CTF tools
 * [dCore](https://www.dcode.fr/) - 800 tools to help solve games, puzzles, coded messages, math, etc
 * [Cipher identifier](https://www.boxentriq.com/code-breaking/cipher-identifier) - a tool that will help you identify the type of cipher
