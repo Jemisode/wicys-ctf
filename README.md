@@ -47,4 +47,5 @@
 * [How to Debug Using GDB](https://cs.baylor.edu/~donahoo/tools/gdb/tutorial.html) - How to use OnlineGBD
 * [VirusTotal](https://www.virustotal.com/gui/home/upload) - To check files hash and reputation
 * [Audacity](https://www.audacityteam.org/) - For audio steganography challenges
-  
+* [URL and website scanner](https://urlscan.io/)
+* [Online Tools to crack CTF Contests](https://dhanumaalaian.medium.com/online-tools-to-crack-ctf-contest-1ad7efa958da)
