@@ -5,7 +5,6 @@
 ### CTFs - overview
 
 * [CTF 101 - Women in Cybersecurity (WiCyS)](https://www.youtube.com/watch?v=wL3acu8xspM)
-* [Demystifying Capture-the-Flag (CTF) Competitions - SANS Institute](https://sansorg.egnyte.com/dl/yhSrST3SSh)
 
 ### Getting started - environment setup
 
