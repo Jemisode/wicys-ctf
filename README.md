@@ -56,3 +56,4 @@
 * [Aperi'Solve](https://www.aperisolve.com/) - A stenography platform which performs layer analysis on an image
 * [URL and website scanner](https://urlscan.io/) - A sandbox for the web
 * [Online Tools to crack CTF Contests](https://dhanumaalaian.medium.com/online-tools-to-crack-ctf-contest-1ad7efa958da) - A list of online tools
+* [CTF Tools](https://blogs.nvcc.edu/kdinh/ctftools/) -Tools used for solving CTF challenges
