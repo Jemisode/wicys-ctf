@@ -45,6 +45,7 @@
 * [CyberChef](https://gchq.github.io/CyberChef/) - Swiss Army Knife of useful Cyber and CTF tools
 * [dCore](https://www.dcode.fr/) - 800 tools to help solve games, puzzles, coded messages, math, etc
 * [Cipher identifier](https://www.boxentriq.com/code-breaking/cipher-identifier) - a tool that will help you identify the type of cipher
+* [Online JavaScript Editor]{https://js.do/} - a tool to edit JavaScript code  
 * [Google](https://www.google.com/) :wink: 
 * [Wireshark](https://www.wireshark.org/) - Network Packet Analysis
 * [Zeek](https://zeek.org/) - Network Analysis/Threat Hunting
