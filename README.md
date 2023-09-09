@@ -12,6 +12,7 @@
 
 * [How to install Linux on Windows with WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
 * [Set up Linux on your Chromebook](https://support.google.com/chromebook/answer/9145439?hl=en)
+* [Kali Linux - An Ethical Hacker's Cookbook](https://drive.google.com/file/d/1qAe_7nCm08R4FremvJpNq6PJ3PT38KzC/view)
 
 #### Virtual machines
 
