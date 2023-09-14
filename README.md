@@ -28,7 +28,6 @@
 **Note**: when installing Fusion, be sure to create a customer connect account to install it then register for a personal use license. Its free and doesnt expire.
 
 * [Kali Linux iso (Installer is recommended)](https://www.kali.org/get-kali/#kali-installer-images)
-
 * [Homebrew](https://brew.sh/) 
 
 **Note**: if you're using your Mac without a vm or want to do certain challenges on your local machine, install Homebrew. It is a workaround downloading Linux based apps to your local OSX environment. Unfortunately it doesn't include ALL helpful apps.
