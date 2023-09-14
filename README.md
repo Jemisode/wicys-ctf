@@ -17,6 +17,7 @@
 #### Virtual machines
 
 * [How To Install Kali Linux in VirtualBox (2022) | Kali Linux 2022.1](https://www.youtube.com/watch?v=l97dVIKlmVg)
+* [How To Install Windows 11 in VirtualBox](https://www.youtube.com/watch?v=ZI8dRhZ14Ls)
 
 ##### Mac user tips
 
@@ -37,6 +38,7 @@
 * [CTF tips for beginner hackers - Hack The Box](https://www.hackthebox.com/blog/what-is-ctf#ctf_tips_for_beginner_hackers)
 * [How to get started in CTF | Complete Beginner Guide](https://infosecwriteups.com/how-to-get-started-in-ctf-complete-begineer-guide-15ab5a6856d)
 * [CTF101](https://ctf101.org/)
+* [What is CTF and how to get started](https://medium.com/@.Qubit/what-is-ctf-and-how-to-get-started-ec7a27d2401c)
 
 ### Websites to practice
 
