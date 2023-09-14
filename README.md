@@ -16,12 +16,13 @@
 
 #### Mac user tips ####
 * Best way to install Kali Linux on an M1/ARM machine: https://www.youtube.com/watch?v=LJo9EUwXiHo
-* Installing vmware (recommended): https://www.vmware.com/products/fusion/fusion-evaluation.html
-*   **Note**
+* Installing VMware (recommended): https://www.vmware.com/products/fusion/fusion-evaluation.html
+    **Note**
 When installing fusion, be sure to create a customer connect account to install it then register for a personal use license. Its free and doesnt expire.
+
 * Kali Linux iso : (Installer is recommended) https://www.kali.org/get-kali/#kali-installer-images
 * If you're using your Mac without a vm or just want to do certain challenges on your local machine, install this: https://brew.sh/
-     *Homebrew is a workaround for downloading linux based apps to your local OSX environment. Unfortunately doesn't include ALL helpful apps
+     *Homebrew is a workaround for downloading Linux based apps to your local OSX environment. Unfortunately it doesn't include ALL helpful apps.
 
 
 #### Virtual machines
