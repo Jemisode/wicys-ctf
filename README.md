@@ -22,7 +22,7 @@
 
 * [Install Kali Linux On M1 Or M2 Mac Using VMWare Fusion (2023)](https://www.youtube.com/watch?v=LJo9EUwXiHo)
 * [Best way to install Kali Linux on an M1/ARM machine](https://www.youtube.com/watch?v=LJo9EUwXiHo)
-* [Installing VMware (recommended)](https://www.vmware.com/products/fusion/fusion-evaluation.html) -
+* [Installing VMware (recommended)](https://www.vmware.com/products/fusion/fusion-evaluation.html) 
 
 **Note** when installing Fusion, be sure to create a customer connect account to install it then register for a personal use license. Its free and doesnt expire.
 
