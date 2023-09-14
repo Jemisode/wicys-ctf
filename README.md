@@ -30,7 +30,7 @@
 
 * [Homebrew](https://brew.sh/) 
 
-***Note**: if you're using your Mac without a vm or want to do certain challenges on your local machine, install Homebrew. It is a workaround downloading Linux based apps to your local OSX environment. Unfortunately it doesn't include ALL helpful apps.
+**Note**: if you're using your Mac without a vm or want to do certain challenges on your local machine, install Homebrew. It is a workaround downloading Linux based apps to your local OSX environment. Unfortunately it doesn't include ALL helpful apps.
 
 ### Tips for beginners
 
