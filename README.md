@@ -15,19 +15,22 @@
 * [Kali Linux - An Ethical Hacker's Cookbook](https://drive.google.com/file/d/1qAe_7nCm08R4FremvJpNq6PJ3PT38KzC/view)
 
 #### Mac user tips ####
-* Best way to install Kali Linux on an M1/ARM machine: https://www.youtube.com/watch?v=LJo9EUwXiHo
-* Installing VMware (recommended): https://www.vmware.com/products/fusion/fusion-evaluation.html <br><br>
-    **Note** - when installing Fusion, be sure to create a customer connect account to install it then register for a personal use license. Its free and doesnt expire.
-
-* Kali Linux iso (Installer is recommended): https://www.kali.org/get-kali/#kali-installer-images
-* If you're using your Mac without a vm or just want to do certain challenges on your local machine, install this: https://brew.sh/
-     *Homebrew is a workaround for downloading Linux based apps to your local OSX environment. Unfortunately it doesn't include ALL helpful apps.
 
 
 #### Virtual machines
 
 * [How To Install Kali Linux in VirtualBox (2022) | Kali Linux 2022.1](https://www.youtube.com/watch?v=l97dVIKlmVg)
+
+##### Mac user tips
+
 * [Install Kali Linux On M1 Or M2 Mac Using VMWare Fusion (2023)](https://www.youtube.com/watch?v=LJo9EUwXiHo)
+* [Best way to install Kali Linux on an M1/ARM machine](https://www.youtube.com/watch?v=LJo9EUwXiHo)
+* [Installing VMware (recommended)](https://www.vmware.com/products/fusion/fusion-evaluation.html) <br><br>
+    [**Note** - when installing Fusion, be sure to create a customer connect account to install it then register for a personal use license. Its free and doesnt expire.]
+
+* [Kali Linux iso (Installer is recommended)](https://www.kali.org/get-kali/#kali-installer-images)
+* [If you're using your Mac without a vm or just want to do certain challenges on your local machine, install this:](https://brew.sh/)
+     [*Homebrew is a workaround for downloading Linux based apps to your local OSX environment. Unfortunately it doesn't include ALL helpful apps.]
 
 ### Tips for beginners
 
