@@ -14,9 +14,6 @@
 * [Set up Linux on your Chromebook](https://support.google.com/chromebook/answer/9145439?hl=en)
 * [Kali Linux - An Ethical Hacker's Cookbook](https://drive.google.com/file/d/1qAe_7nCm08R4FremvJpNq6PJ3PT38KzC/view)
 
-#### Mac user tips ####
-
-
 #### Virtual machines
 
 * [How To Install Kali Linux in VirtualBox (2022) | Kali Linux 2022.1](https://www.youtube.com/watch?v=l97dVIKlmVg)
