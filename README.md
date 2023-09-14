@@ -38,6 +38,7 @@
 * [How to get started in CTF | Complete Beginner Guide](https://infosecwriteups.com/how-to-get-started-in-ctf-complete-begineer-guide-15ab5a6856d)
 * [CTF101](https://ctf101.org/)
 * [What is CTF and how to get started](https://medium.com/@.Qubit/what-is-ctf-and-how-to-get-started-ec7a27d2401c)
+* [CTF Support](https://ctf.support/)
 
 ### Websites to practice
 
