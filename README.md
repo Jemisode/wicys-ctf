@@ -64,7 +64,7 @@
 * [Online JavaScript Editor](https://js.do/) - a tool to edit JavaScript code  
 * [Google](https://www.google.com/) :wink: 
 * [Wireshark](https://www.wireshark.org/) - Network Packet Analysis
-* [Metasploit Cheat Sheet](https://www.comparitech.com/net-admin/metasploit-cheat-sheet/)
+* [Metasploit Cheat Sheet](https://www.comparitech.com/net-admin/metasploit-cheat-sheet/) - a cheat sheet for a widely used penetration testing framework  
 * [Zeek](https://zeek.org/) - Network Analysis/Threat Hunting
 * [Ghidra](https://ghidra-sre.org/) - Reverse Engineering
 * [OnlineGBD](https://www.onlinegdb.com/) - Debugging
